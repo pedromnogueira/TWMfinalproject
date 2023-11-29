@@ -1,0 +1,16 @@
+.item{
+    width: 350px;
+}
+
+.item p{
+    margin: 6px 0px;
+}
+.item-price{
+    color: black;
+    font-size: 18x;
+    font-weight: 600;
+}
+.item:hover{
+    transform: scale(1.05);
+    transition: 0.6s;
+}
